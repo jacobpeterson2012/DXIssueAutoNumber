@@ -1,14 +1,6 @@
 # SFDX  App
+* Create a new package
+* Create a new version
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+This will result in error:
+ERROR:  Autonumber fields on standard objects are not packageable.
